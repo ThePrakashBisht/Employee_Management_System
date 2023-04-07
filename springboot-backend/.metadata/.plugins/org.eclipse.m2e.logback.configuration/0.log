@@ -1,0 +1,22 @@
+2023-04-06 12:19:35,601 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-06 12:31:01,688 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-06 12:31:03,843 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:springboot-backend:0.0.1-SNAPSHOT @ C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\pom.xml.
+2023-04-06 12:31:07,138 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2023-04-06 12:31:07,142 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2023-04-06 12:31:07,152 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2023-04-06 12:31:07,159 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2023-04-06 12:31:09,407 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2023-04-06 12:31:12,616 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 12:31:12,680 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:31:12,691 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\src\test\resources
+2023-04-06 12:35:51,029 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:springboot-backend:0.0.1-SNAPSHOT @ C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\pom.xml.
+2023-04-06 12:35:54,430 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 12:35:54,466 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:35:54,475 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\src\test\resources
+2023-04-06 12:35:57,173 [Worker-33: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:springboot-backend:0.0.1-SNAPSHOT @ C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\pom.xml.
+2023-04-06 12:35:58,884 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 12:35:58,914 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:35:58,948 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\src\test\resources
+2023-04-06 12:36:00,683 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:36:00,683 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:36:00,693 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\git\Angular-10-Spring-Boot-CRUD-Full-Stack-App2\springboot-backend\src\test\resources
